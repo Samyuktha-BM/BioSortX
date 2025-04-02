@@ -1,0 +1,22 @@
+{
+  "Memory Report": {
+    "Name": "quantized_mobile_net",
+    "Runtime Memory Physical Size": "989.00KB",
+    "Model Memory Physical Size": "690.34KB",
+    "Reserved Memory": "1.00KB",
+    "Memory Usage": "1.64MB",
+    "Total Memory Available On Chip": "8.00MB",
+    "Memory Utilization": "21%",
+    "Fit In Chip": true,
+    "Input Persistent": false,
+    "Networks": [
+      {
+        "Hash": "quantized_mobile_net",
+        "Name": "quantized_mobile_net",
+        "Runtime Memory Physical Size": "989.00KB",
+        "Model Memory Physical Size": "690.34KB",
+        "Input Persistence Cost": "0B"
+      }
+    ]
+  }
+}
